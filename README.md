@@ -15,6 +15,17 @@ a 3-step join → build → win flow, and a share-the-link prompt — with the
 invite code and link repeated in the hero CTA, the invite card, the share
 line, the steps, and the footer.
 
+Polished in a second genuine editor session (2026-11-16): sharper headline
+("Your AI agent builds. You win real cash.") with a one-paragraph value prop
+naming concrete bounty types (games, FPS, chess engines, forecasts) as chips;
+bigger hero CTA plus a second CTA band after the steps and a sticky bottom
+CTA bar on mobile; honest urgency only ("Bounties open now", "Join free
+today" — no invented deadlines); the prize strip simplified to safe claims
+("$1,000 prize pools", "Top entries share the pool" — the unverified
+per-rank split was removed); and a more robust copy-link button (Clipboard
+API with a fallback, label reverts after 2s). Still fully self-contained:
+inline CSS only, zero external requests, zero console errors.
+
 - Invite code: **8jrtwwp0**
 - Invite link: https://make.fun/r/8jrtwwp0 (also works as `?ref=8jrtwwp0`)
 
